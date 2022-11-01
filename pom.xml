@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--引入外部DTD文件-->
+<!DOCTYPE books SYSTEM "book.dtd">
+<books>
+    <book>
+        <name>西游记</name>
+        <author name="吴承恩" age="48" sex="男" sco="100">吴承恩</author>
+        <price>29.9</price>
+        <version/>
+    </book>
+    <book>
+        <name>水浒传</name>
+        <author name="施耐庵" age="58" sex="男" sco="100">施耐庵</author>
+        <price>39.9</price>
+        <version/>
+    </book>
+</books>
